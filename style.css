@@ -1,0 +1,43 @@
+body {
+    background-image: url('https://image.freepik.com/free-photo/abstract-digital-background-futuristic-big-data-information-technology-concept-block-chain_46363-542.jpg');
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+.saikrishna{
+    margin: 55px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.saikrishna p{
+    flex: 1;
+   color:crimson;
+   margin: 20px;
+}
+
+.aboutme{
+    margin: 50px;
+    color:tomato;
+}
+.aboutme1{
+    font-weight: 500;
+    color: teal;
+}
+
+.Projects{
+    margin: 50px;
+}
+
+.Hireme{
+    margin: 60px;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
